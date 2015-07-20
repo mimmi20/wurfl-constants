@@ -13,12 +13,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Wurfl\\Request\\": "src/"
+            "Wurfl\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "WurflTest\\Request\\": "tests/"
+            "WurflTest\\": "tests/"
         }
     }
 }
