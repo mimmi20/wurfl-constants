@@ -40,4 +40,6 @@ class WurflConstants
 
     const NO_MATCH      = null;
     const RIS_DELIMITER = '---';
+
+    const PREFERRED_MARKUP_HTML = 'html_web';
 }
