@@ -28,6 +28,7 @@ class WurflConstants
     const GENERIC             = 'generic';
     const GENERIC_XHTML       = 'generic_xhtml';
     const GENERIC_WEB_BROWSER = 'generic_web_browser';
+    const GENERIC_WEB_CRAWLER = "generic_web_crawler";
     const GENERIC_MOBILE      = 'generic_mobile';
 
     const MEMCACHE     = 'memcache';
