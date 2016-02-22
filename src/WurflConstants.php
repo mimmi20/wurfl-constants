@@ -11,7 +11,7 @@
  *
  *
  * @category   WURFL
- * @package    WURFL
+ *
  * @copyright  ScientiaMobile, Inc.
  * @license    GNU Affero General Public License
  */
@@ -20,15 +20,13 @@ namespace Wurfl;
 
 /**
  * WURFL PHP API Constants
- *
- * @package WURFL
  */
 class WurflConstants
 {
     const GENERIC             = 'generic';
     const GENERIC_XHTML       = 'generic_xhtml';
     const GENERIC_WEB_BROWSER = 'generic_web_browser';
-    const GENERIC_WEB_CRAWLER = "generic_web_crawler";
+    const GENERIC_WEB_CRAWLER = 'generic_web_crawler';
     const GENERIC_MOBILE      = 'generic_mobile';
 
     const MEMCACHE     = 'memcache';
