@@ -41,4 +41,7 @@ class WurflConstants
     const RIS_DELIMITER = '---';
 
     const PREFERRED_MARKUP_HTML = 'html_web';
+
+    const API_VERSION   = '1.7.1.0';
+    const API_NAMESPACE = 'wurfl_1710';
 }
