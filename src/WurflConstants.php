@@ -42,6 +42,6 @@ class WurflConstants
 
     const PREFERRED_MARKUP_HTML = 'html_web';
 
-    const API_VERSION   = '1.7.1.0';
-    const API_NAMESPACE = 'wurfl_1710';
+    const API_VERSION   = '1.7.1.1';
+    const API_NAMESPACE = 'wurfl_1711';
 }
